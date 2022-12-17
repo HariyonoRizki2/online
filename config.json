@@ -1,0 +1,14 @@
+ {
+ "ip": "mc.kikiplayroom.ga",
+ "port": "41792",
+ "name": "KIBOTZ API",
+ "password": "",
+ "auto-night-skip": "false",
+ "prefix": "",
+ "login-enabled": "false",
+ "register-cmd": "/login kartikopp kartikopp",
+ "login-cmd": "/login kartikopp",
+ "loginmsg": "Your any msg",
+ "auto-reconnect": "true",
+ "web": "false"  
+}
